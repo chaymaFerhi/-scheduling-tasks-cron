@@ -1,1 +1,0 @@
-this is the right commande : tar -zcf ~/scheduling-tasks-cron/daily/backusssp_$(date +%y%m%d).tar.gz -C ~/exemple .
